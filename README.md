@@ -7,8 +7,16 @@
 </div>
 
 <div>
-  <a href = "mailto:raphaelmvb2@gmail.com">
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href = "https://www.linkedin.com/in/orafamoura/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href = "https://www.instagram.com/orafamoura/">
+  <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href = "https://orafamoura.github.io">
+  <img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  <a href = "https://www.beecrowd.com.br/judge/pt/profile/837375">
+  <img src = "https://img.shields.io/badge/BeeCrowd-purple?logo=beecrowd&color=793197
+">
+    
 </div>
   
 <!--
