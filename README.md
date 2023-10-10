@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bem vindo ao meu GitHub👋
+Me chamo Raphael, tenho 25 anos, faço ADS pela Universidade catolica de Brasilia, comecei a estudar programação em agosto de 2022, criei um interesse muito grande por Java, essa parte Back-end me atraiu bastante, hoje estudo bastante OOP em java, tive a oportunidade de aprender os aspectos de design com diagramas UML, e tambem aprender algumas ferramentas e frameworks como: JDBC, JavaFX, Git e GitHub, SpringBoot, JPA/Hibernate, Maven, Spring Data JPA e Spring Data MongoDB e hoje estou focado em me tornar um Java Software Engineer
 
 <div>
 <a href="https://github.com/orafamoura">
