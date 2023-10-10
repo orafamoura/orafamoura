@@ -14,8 +14,7 @@
   <a href = "https://orafamoura.github.io">
   <img src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   <a href = "https://www.beecrowd.com.br/judge/pt/profile/837375">
-  <img src = "https://img.shields.io/badge/BeeCrowd-purple?logo=beecrowd&color=793197
-">
+  <img src = "https://img.shields.io/badge/BeeCrowd-purple?style=for-the-badge&logo=beecrowd&color=793197">
     
 </div>
   
