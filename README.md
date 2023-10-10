@@ -1,6 +1,7 @@
 # Bem vindo ao meu GitHub👋
 
-Me chamo Raphael, tenho 25 anos, faço ADS pela Universidade catolica de Brasilia, comecei a estudar programação em agosto de 2022, criei um interesse muito grande por Java, essa parte Back-end me atraiu bastante, hoje estudo bastante OOP em java, tive a oportunidade de aprender os aspectos de design com diagramas UML, e tambem aprender algumas ferramentas e frameworks como: JDBC, JavaFX, Git e GitHub, SpringBoot, JPA/Hibernate, Maven, Spring Data JPA e Spring Data MongoDB e hoje estou focado em me tornar um Java Software Engineer.
+Meu nome é Raphael, tenho 25 anos e estou atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Minha jornada na programação começou em agosto de 2022 e, desde então, tenho desenvolvido um profundo interesse em Java, especialmente na área de Back-end. Atualmente, estou dedicando grande parte do meu tempo ao estudo da Programação Orientada a Objetos (OOP) em Java.
+Ao longo desse período de dedicação em estudos autodidáticos, tive a oportunidade de ampliar meus conhecimentos em design de software, utilizando diagramas UML. Além disso, adquiri experiência com diversas ferramentas e frameworks, incluindo JDBC, JavaFX, Git e GitHub, SpringBoot, JPA/Hibernate, Maven, Spring Data JPA e Spring Data MongoDB. Meu objetivo atual é me tornar um engenheiro de software Java.
 
 ### Linguagens
 <div>
