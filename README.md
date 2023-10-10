@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <a href = "https://www.google.com">
+  <a href = "mailto:raphaelmvb2@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
   
